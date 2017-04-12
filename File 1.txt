@@ -1,6 +1,6 @@
 File 1 in master branch
 
-Conflict Additional changes 1
+Conflict here changes 1
 Additional changes 04/12 12:04 PM
 Stashed changes to File 1 at 04/12 12:58 PM
 
